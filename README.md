@@ -1,0 +1,2 @@
+# WealthCreation
+Backtesting / Trading Zeugs
